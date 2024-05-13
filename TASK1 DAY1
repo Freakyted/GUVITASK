@@ -55,4 +55,15 @@ root@ip-172-31-35-152:/home/ubuntu# ls -t | head {1..5}.yml
 ==> 4.yml <==
 
 ==> 5.yml <==
+
+root@ip-172-31-35-152:/home/ubuntu# ls -tr1 | tail {5..1}.yml
+==> 5.yml <==
+
+==> 4.yml <==
+
+==> 3.yml <==
+
+==> 2.yml <==
+
+==> 1.yml <==
 root@ip-172-31-35-152:/home/ubuntu#
