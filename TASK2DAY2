@@ -1,0 +1,7 @@
+root@ip-172-31-35-152:/home/ubuntu# cd home
+root@ip-172-31-35-152:/home/ubuntu/home# touch demo.txt
+root@ip-172-31-35-152:/home/ubuntu/home# chmod 467 demo.txt
+root@ip-172-31-35-152:/home/ubuntu/home# ls -l
+total 0
+-r--rw-rwx 1 root root 0 May 14 13:43 demo.txt
+root@ip-172-31-35-152:/home/ubuntu/home#
